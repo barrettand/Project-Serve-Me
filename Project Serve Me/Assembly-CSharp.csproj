@@ -45,7 +45,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GameObject scripts\OurGameObject.cs" />
+     <Compile Include="Assets\All Scripts\ActiveEffect.cs" />
+     <Compile Include="Assets\All Scripts\Boss.cs" />
+     <Compile Include="Assets\All Scripts\Character.cs" />
+     <Compile Include="Assets\All Scripts\Minion.cs" />
+     <Compile Include="Assets\All Scripts\NonPlayerCharacter.cs" />
+     <Compile Include="Assets\All Scripts\OurGameObject.cs" />
+     <Compile Include="Assets\All Scripts\PassiveTerrain.cs" />
+     <Compile Include="Assets\All Scripts\Player.cs" />
+     <Compile Include="Assets\All Scripts\SpawnerTerrain.cs" />
+     <Compile Include="Assets\All Scripts\Team.cs" />
+     <Compile Include="Assets\All Scripts\Terrain.cs" />
+     <Compile Include="Assets\All Scripts\Villager.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\StickPointer.cs" />
  <Reference Include="UnityEngine.Networking">
