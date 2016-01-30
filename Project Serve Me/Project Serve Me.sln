@@ -1,8 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{78928F7E-0137-01DA-32A8-5911EC162AAB}") = "Project Serve Me", "Assembly-CSharp-firstpass.csproj", "{919E2A3B-CBFE-741C-2B6E-72EA2D255AE4}"
-EndProject
 Project("{78928F7E-0137-01DA-32A8-5911EC162AAB}") = "Project Serve Me", "Assembly-CSharp.csproj", "{EEF99C1D-EF41-E24F-BB7C-D67E96B98075}"
 EndProject
 Global
@@ -11,10 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{919E2A3B-CBFE-741C-2B6E-72EA2D255AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{919E2A3B-CBFE-741C-2B6E-72EA2D255AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{919E2A3B-CBFE-741C-2B6E-72EA2D255AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{919E2A3B-CBFE-741C-2B6E-72EA2D255AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EEF99C1D-EF41-E24F-BB7C-D67E96B98075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EEF99C1D-EF41-E24F-BB7C-D67E96B98075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEF99C1D-EF41-E24F-BB7C-D67E96B98075}.Release|Any CPU.ActiveCfg = Release|Any CPU
